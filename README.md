@@ -27,7 +27,7 @@ If you have any questions or concerns, feel free to contact me via Telegram:
     AUTH_USERS=123,456 # User ids of those who can use bot anywhere without limit
     GROUPS=123,456 # Chat ids where you wan't many to use the bot
 
-#### Tutorial Video
+
 
 
 
