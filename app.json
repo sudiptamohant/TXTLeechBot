@@ -30,5 +30,10 @@
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
             "value":""
         }
-    }
+        "AUTH_GROUPS":{
+	    "description" :"IDs of group where bot will leech. Make sure to make bot admin of that group with full permission.(use rose bot of id),
+             "value":""
+	
+    
+     }
 }
