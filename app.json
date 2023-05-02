@@ -1,5 +1,5 @@
 {
-    "name": "pyro",
+    "name": "ADR LEECH BOT",
     "description": "Download videos from various websites using this telegram bot",
     "repository": "https://github.com/Adrenalinators/TXTLeechBot",
     "buildpacks": [
