@@ -29,6 +29,6 @@ If you have any questions or concerns, feel free to contact me via Telegram:
 
 #### Tutorial Video
 
-If you need help deploying the bot, you can watch this tutorial video on YouTube:
 
-[![Tutorial Video](https://img.youtube.com/vi/ejVSt4kY_jk/0.jpg)](https://www.youtube.com/watch?v=ejVSt4kY_jk)
+
+
