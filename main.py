@@ -143,12 +143,12 @@ async def restart_handler(_, m):
 
 @bot.on_message(filters.command(["pro_txt"]))
 async def account_login(bot: Client, m: Message):
-    user = m.from_user.id if m.from_user is not None else None
-    if user is not None and user not in sudo_users:
-        await m.reply("**bhag bhosadi ke", quote=True)
-        return
-    else:
-        editable = await m.reply_text(
+   
+
+
+   
+
+editable = await m.reply_text(
             "Hello Bruh **I am Text Downloader Bot**. I can download videos from **text** file one by one.**\n\nDeveloper** : उससे क्या होगा काम से काम रखो 😂 @Adrenalinators**\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File {Name : Link}")
     input: Message = await bot.listen(editable.chat.id)
     x = await input.download()
